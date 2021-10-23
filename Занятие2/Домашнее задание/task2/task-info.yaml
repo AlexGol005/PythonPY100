@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 110
-    length: 12
+    length: 11
     placeholder_text: '...)  # TODO'
     initial_state:
       length: 12
       offset: 110
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: min(list_))
   text: |
     if __name__ == "__main__":
@@ -26,5 +26,8 @@ files:
   text: |
     Минимальный элемент = -6
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 23 Oct 2021 11:33:01 UTC
 record: -1
