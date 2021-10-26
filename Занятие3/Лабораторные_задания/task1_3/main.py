@@ -11,4 +11,5 @@ def factorizator(n):
 
 
 if __name__ == "__main__":
-    print(factorizator(42))
+    print(factorizator(100))
+
