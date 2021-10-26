@@ -7,7 +7,7 @@ def digits(N):
     min_ = min(digits_list)
     even_place = [i for i in digits_list[1::2]]
     difference = digits_list[0] - digits_list[len(digits_list) - 1]
-    min_digit = list.index()
+    min_digit = list.index()////
     print(even_place)
     return digits_list, sum_, sum_even, how_many_digits, min_, max_, difference
 
