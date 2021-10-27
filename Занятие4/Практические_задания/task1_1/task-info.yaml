@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 152
-    length: 24
+    length: 38
     placeholder_text: '[]  # TODO записать list comprehension'
     initial_state:
       length: 38
       offset: 152
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: '[i ** 2 for i in range(n)]'
   text: |
