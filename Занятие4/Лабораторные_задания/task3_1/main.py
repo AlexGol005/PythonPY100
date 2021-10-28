@@ -1,4 +1,5 @@
-# TODO
+def generator_dict():
+    gen_dict = {i: i**2 for i in range(5)}
 
 
 if __name__ == "__main__":
