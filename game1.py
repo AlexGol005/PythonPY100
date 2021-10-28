@@ -29,3 +29,4 @@ def is_win(field) -> bool:
 
 
 if __name__ == '__main__':
+    main_field = init_field()
